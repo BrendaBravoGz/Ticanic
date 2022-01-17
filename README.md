@@ -15,3 +15,8 @@ El fichero titanic.csv contiene información sobre los pasajeros del Titanic. Es
 >9- Mostrar por pantalla la edad media de las mujeres que viajaban en cada clase.<br>
 >10- Añadir una nueva columna booleana para ver si el pasajero era menor de edad o no.<br>
 >11- Mostrar por pantalla el porcentaje de menores y mayores de edad que sobrevivieron en cada clase.<br>
+<div style="display:flex; ">
+<a href="https://www.behance.net/BrendaBravoGz"> <img style ="width:200px;height:auto; " src="https://user-images.githubusercontent.com/95329519/149224001-b1f0bac1-9120-4814-83a9-22e3c9cd5a75.png"></a>
+<a href="https://www.behance.net/BrendaBravoGz"> <img style ="width:200px;height:auto; " src="https://user-images.githubusercontent.com/95329519/149224383-095599fa-cdcc-4da2-acce-3f399ec369e7.png"></a>
+<a href="https://www.linkedin.com/in/brendabravogz/"> <img style ="width:200px;height:auto; " src="https://user-images.githubusercontent.com/95329519/149222857-f5a7318c-f761-4a4d-87bd-f438d710b23e.png"></a>
+</div>
